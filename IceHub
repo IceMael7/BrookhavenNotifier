@@ -1,7 +1,1 @@
-wait(10)
-game.StarterGui:SetCore("SendNotification", {
-	Title = "IMPORTANT"; 
-	Text = "IceHub CAN be down for some minute | Christmas Update"; 
-	Icon = ""; 
-	Duration = 10;
-})
+
