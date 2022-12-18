@@ -1,1 +1,6 @@
-
+game.StarterGui:SetCore("SendNotification", {
+	Title = "LLL"; 
+	Text = "COMMON BIG L ARGENTINA COMMON L MESSI"; 
+	Icon = ""; 
+	Duration = 10;
+})
